@@ -5,4 +5,13 @@ body{
 .sections{
     box-sizing: border-box;
     border: solid 1px black;
+    height: 10vh;
+}
+
+.section2{
+
+    box-sizing: border-box;
+    border: solid 1px red;
+    height: 100vh;
+
 }
