@@ -12,4 +12,8 @@ body {
   border: solid 1px red;
   height: 100vh; }
 
+.sections__title {
+  font-size: 2rem;
+  color: white; }
+
 /*# sourceMappingURL=main.css.map */
