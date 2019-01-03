@@ -1,17 +1,15 @@
-body{
-    background-color: aqua;
-}
+body {
+  background-color: aqua; }
 
-.sections{
-    box-sizing: border-box;
-    border: solid 1px black;
-    height: 10vh;
-}
+.sections {
+  box-sizing: border-box;
+  border: solid 1px black;
+  height: 10vh;
+  background-color: orange; }
 
-.section2{
+.section2 {
+  box-sizing: border-box;
+  border: solid 1px red;
+  height: 100vh; }
 
-    box-sizing: border-box;
-    border: solid 1px red;
-    height: 100vh;
-
-}
+/*# sourceMappingURL=main.css.map */
